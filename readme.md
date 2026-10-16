@@ -1,1 +1,1 @@
-Node.js server to serve local requests.
+Node.js server to manage local http requests.
